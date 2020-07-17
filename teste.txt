@@ -1,1 +1,2 @@
 testando o git.
+editando o arquivo para que seja checado no GitHub
